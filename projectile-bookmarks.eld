@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/Code/zombies/" "~/code/zombies/" "~/Code/yasnippet-ruby-mode/")
