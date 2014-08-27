@@ -1,1 +1,1 @@
-("~/.emacs.d/" "~/Code/zombies/" "~/code/zombies/" "~/Code/yasnippet-ruby-mode/")
+("~/Code/waldorf/" "~/Code/cloudformation/" "~/Code/chef-repo/" "~/.emacs.d/" "~/Code/zombies/" "~/code/zombies/" "~/Code/yasnippet-ruby-mode/")

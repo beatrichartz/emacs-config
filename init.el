@@ -2,6 +2,7 @@
 
 (load "private/extensions/make-directory.el")
 (load "private/extensions/delete-buffer-and-file.el")
+(load "private/hooks/before-save.el")
 
 (global-auto-revert-mode t)
 
@@ -16,17 +17,37 @@
 (require 'smartparens-config)
 (smartparens-global-mode)
 
+(require 'auto-complete-config)
+(add-to-list 'ac-dictionary-directories "dict")
+(setq-default ac-sources '(
+		     ac-source-yasnippet
+		     ac-source-abbrev
+		     ac-source-dictionary
+		     ac-source-symbols
+		     ac-source-words-in-same-mode-buffers
+		    ))
+(add-hook 'emacs-lisp-mode-hook 'ac-emacs-lisp-mode-setup)
+(add-hook 'c-mode-common-hook 'ac-cc-mode-setup)
+(add-hook 'ruby-mode-hook 'ac-ruby-mode-setup)
+(add-hook 'css-mode-hook 'ac-css-mode-setup)
+(add-hook 'auto-complete-mode-hook 'ac-common-setup)
+(global-auto-complete-mode t)
+
 (require 'yasnippet)
 (yas-global-mode 1)
 
-(require 'auto-complete-config)
-(add-to-list 'ac-dictionary-directories "dict")
-(ac-config-default)
-
-(require 'grizzl)
 (projectile-global-mode)
 (setq projectile-enable-caching t)
-(setq projectile-completion-system 'grizzl)
+
+(require 'flx-ido)
+(require 'ido-vertical-mode)
+(ido-mode 1)
+(ido-everywhere 1)
+(flx-ido-mode 1)
+(ido-vertical-mode 1)
+
+(setq ido-enable-flex-matching t)
+(setq ido-use-faces nil)
 
 (global-set-key (kbd "C-x C-g") 'find-file)
 (global-set-key (kbd "C-x C-f") 'projectile-find-file)

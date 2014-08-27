@@ -42,6 +42,7 @@
 (depends-on "gotest")
 (depends-on "grizzl")
 (depends-on "haml-mode")
+(depends-on "ido-vertical-mode")
 (depends-on "js2-refactor")
 (depends-on "json-mode")
 (depends-on "json-reformat")
