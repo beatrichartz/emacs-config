@@ -1,0 +1,218 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/beatrichartz/" . ".oh-my-zsh/")
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/fixtures/data/" . "pos/")
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/fixtures/" . "data/")
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/" . "fixtures/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/beatrichartz/.emacs.d/private/configurations/"
+ "/Users/beatrichartz/.emacs.d/private/hooks/"
+ "/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/lib/janice/aspects/"
+ "/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/lib/"
+ "/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/lib/janice/aspects/presenters/"
+ "/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/templates/places/"
+ "/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/lib/janice/routing/"
+ "/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/lib/janice/"
+ "/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/config/initializers/"
+ "/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/apps/clifford/presenters/"
+ "/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/lib/components/"
+ "/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/lib/mixins/presenters/"
+ "/Users/beatrichartz/Documents/Code/elixir/wohler_wettstein/web/models/"
+ "/Users/beatrichartz/Documents/Code/ruby/shoulda-callback-matchers/"
+ "/Users/beatrichartz/Documents/Code/elixir/wohler_wettstein/"
+ "/Users/beatrichartz/Documents/Code/elixir/wohlerwettstein/web/models/"
+ "/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/luna-authorizator/spec/lib/luna/authorizator/"
+ "/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/luna-authorizator/lib/luna/authorizator/"
+ "/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/luna-authorizator/"
+ "/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/luna-authorizator/spec/lib/luna/"
+ "/Users/beatrichartz/Documents/Code/rust/byexample/"
+ "/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/rowlf/lib/rowlf/gustavo/"
+ "/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/need-to-know/config/"
+ "/Users/beatrichartz/Documents/Code/go/try/controllers/"
+ "/Users/beatrichartz/Documents/Code/go/try/"
+ "/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/nlp/"
+ "/Users/beatrichartz/.oh-my-zsh/"
+ "/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/"
+ "/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/unit/search/"
+ "/Users/beatrichartz/Documents/Code/ruby/configurations/"
+ "/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/grammar/"
+ "/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/unit/grammar/"
+ "/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/unit/tokenizer/"
+ "/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/unit/pos/"
+ "/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/fixtures/data/pos/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "yasnippet.el"
+ "global.el"
+ "smartparens.el"
+ "elixir.el"
+ "ruby.el"
+ "go.el"
+ "erlang.el"
+ "web.el"
+ "projectile.el"
+ "ido.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/beatrichartz/.emacs.d/private/configurations/" (21713 61153 0 0) "web.el" "smartparens.el" "ruby.el~" "ruby.el" "projectile.el" "ido.el" "global.el~" "global.el" "erlang.el" "company.el" "../" "./")
+
+ ("/Users/beatrichartz/.emacs.d/private/hooks/" (21713 61000 0 0) "ruby.el" "before-save.el" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/elixir/wohler_wettstein/" (21713 6577 0 0) "web/" "test/" "README.md~" "README.md" "priv/" "mix.lock" "mix.exs~" "mix.exs" "lib/" "deps/" "config/" "_build/" ".projectile~" ".projectile" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/apps/clifford/presenters/" (21712 48392 0 0) "stack.rb~" "stack.rb" "place.rb~" "place.rb" "null_stack.rb~" "null_stack.rb" "null_place.rb~" "null_place.rb" "null_image.rb" "image.rb~" "image.rb" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/lib/janice/" (21712 47773 0 0) "routing/" "repositories.rb~" "repositories.rb" "repositories/" "presenter.rb~" "presenter.rb" "entities.rb~" "entities.rb" "entities/" "aspects/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/lib/janice/routing/" (21712 62232 0 0) "route.rb~" "route.rb" "endpoint_resolver.rb~" "decider.rb~" "#route.rb#" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/templates/places/" (21712 46521 0 0) "show.html.hbs" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/lib/janice/aspects/presenters/" (21712 48594 0 0) "image.rb~" "image.rb" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/lib/" (21712 48770 0 0) "presenter.rb~" "janice/" "db/" "all.rb~" "all.rb" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/lib/janice/aspects/" (21712 47791 0 0) "presenters.rb~" "presenters.rb" "presenters/" "../" "./")
+
+ ("/Users/beatrichartz/.emacs.d/private/" (21713 60719 0 0) "hooks/" "extensions/" "bindings.el~" "bindings.el" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/unit/grammar/" (21712 40550 0 0) "token_test.go" "sentence_test.go" "parser_test.go" "normalizer_test.go" "lexer_test.go" "grammar_suite_test.go" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/unit/search/" (21712 40550 0 0) "tier_handler_test.go" "tags_handler_test.go~" "tags_handler_test.go" "successor_handler_test.go" "search_test.go" "search_suite_test.go" "result_test.go" "result_set_test.go" "query_test.go" "query_parser_test.go" "predecessor_handler_test.go" "neighbours_handler_test.go~" "n_gram_trust_handler_test.go~" "n_gram_trust_handler_test.go" "match_handler_test.go" "formatter_test.go" "context_handler_test.go" "confidence_handler_test.go" "competition_handler_test.go" "combination_handler_test.go" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/" (21712 40548 0 0) "WIKI.md~" "tests/" "search/" "README.md" "nlp/" "log/" "index/" "grammar/" "Godeps/" "drumkit.go" "drumkit/" "data/" ".gitignore" ".git/" ".env.example" ".DS_Store" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/config/initializers/" (21711 36663 0 0) "view.rb~" "view.rb" "rubberband.rb~" "rubberband.rb" "image_resizer.rb" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/config/" (21711 52117 0 0) "initializers.rb" "initializers/" "es.test.yml~" "es.test.yml.example" "es.test.yml" "es.development.yml.example" "es.development.yml" "environment.rb~" "environment.rb" ".env.test~" ".env.test" ".env.development~" ".env.development" ".env" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/rowlf/" (21711 40651 0 0) "Zoot_and_SWF.md" "workflows/" "tmp/" "Thorfile" "swf/" "STATS_NAMING.md" "spec/" "sitemaps/" "README.md" "Rakefile" "profilers/" "Procfile.example" "Procfile" "pdf/" "LOGGING.md" "log/" "lib/" "Gushfile.rb" "Guardfile" "Gemfile.lock" "Gemfile" "features/" "dump.rdb" "docs/" "db/" "data/" "config.ru" "config/" "check/" "bin/" ".rvmrc.example" ".ruby-version.example" ".ruby-version" ".ruby-gemset.example" ".rubocop.yml" ".rubocop-todo.yml" ".gitmodules" ".gitignore" ".git/" ".env.test.example" ".env.example" ".env.development.example" ".env.cucumber.example" ".env.ci" ".env" ".cucumber.example" ".cucumber" ".bundle/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/lib/components/" (21711 35014 0 0) "presenters/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/lib/mixins/presenters/" (21711 35014 0 0) "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/lib/mixins/" (21711 35006 0 0) "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/rowlf/lib/rowlf/gustavo/" (21706 6858 0 0) "when_to_go.rb" "update.rb" "stack_processor.rb" "stack.rb" "slideshow.rb" "repository.rb" "repository/" "redirect.rb" "lodging_mismatches.rb" "lodging_mismatches/" "lodging_mismatch.rb" "lodging_matches.rb" "lodging_matches/" "lodging_match.rb" "import.rb" "images.rb" "images/" "image.rb" "fetcher.rb" "blacklist_lodging.rb" "best_in_travel.rb" "base.rb" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/elixir/wohler_wettstein/web/models/" (21694 59143 0 0) "work.ex~" "work.ex" "tag.ex~" "tag.ex" "repo.ex~" "repo.ex" "project.ex~" "project.ex" "process.ex~" "process.ex" "picture.ex~" "picture.ex" "page.ex~" "page.ex" "model.ex~" "model.ex" "link.ex~" "link.ex" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/apps/clifford/views/stacks/" (21711 33913 0 0) "index.rb~" "index.rb" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/" (21711 26364 0 0) "templates/" "spec/" "README.md~" "README.md" "Rakefile" "Procfile.example" "Procfile" "log/" "lib/" "Gemfile~" "Gemfile.lock" "Gemfile" "data/" "config.ru" "config/" "apps/" ".ruby-version.example" ".ruby-version" ".gitignore" ".git/" ".bundle/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/janice/apps/clifford/config/" (21711 33493 0 0) "routes.rb" "../" "./")
+
+ ("/usr/local/var/rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/lotus-view-0.3.0/lib/lotus/view/" (21711 32466 0 0) "version.rb" "template.rb" "rendering.rb~" "rendering.rb" "rendering/" "inheritable.rb" "dsl.rb" "configuration.rb" "../" "./")
+
+ ("/usr/local/var/rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/lotus-view-0.3.0/lib/lotus/view/rendering/" (21711 24264 0 0) "view_finder.rb" "templates_finder.rb" "template_name.rb" "template_finder.rb" "template.rb~" "template.rb" "scope.rb" "registry.rb" "partial_finder.rb" "partial.rb" "null_template.rb" "null_layout.rb" "layout_scope.rb~" "layout_scope.rb" "layout_registry.rb" "layout_finder.rb" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/tilt-handlebars/lib/tilt/handlebars/" (21711 22264 0 0) "version.rb" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/elixir/wohler_wettstein/web/admin/templates/admin/page/" (21691 53166 0 0) "not_found.html.eex" "index.html.eex~" "index.html.eex" "error.html.eex" ".#index.html.eex" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/grammar/" (21689 9808 0 0) "token.go" "sentence.go" "parser.go" "normalizer.go" "lexer.go" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/configurations/" (21691 47792 0 0) "test/" "README.md" "Rakefile" "License.txt" "lib/" "Gemfile.lock" "Gemfile" "doc/" "coverage/" "configurations.gemspec" ".yardoc/" ".travis.yml" ".ruby-version" ".gitignore" ".git/" ".DS_Store" ".bundle/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/shoulda-callback-matchers/" (21690 22391 0 0) "tmp/" "spec/" "shoulda-callback-matchers.gemspec" "shoulda-callback-matchers-1.1.2.gem" "README.md" "Rakefile" "NEWS.md" "MIT-LICENSE" "lib/" "gemfiles/" "Gemfile.lock" "Gemfile" "ext/" "CONTRIBUTING.md" "Appraisals" ".zedstate" ".travis.yml" ".ruby-version" ".rspec" ".gitignore" ".git/" ".bundle/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/elixir/wohler_wettstein/web/views/" (21686 49904 0 0) "page_view.ex~" "page_view.ex" "layout_view.ex~" "layout_view.ex" "error_view.ex~" "error_view.ex" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/elixir/wohler_wettstein/web/" (21691 50651 0 0) "views/" "view.ex~" "view.ex" "templates/" "router.ex~" "router.ex" "models/" "controllers/" "channels/" ".DS_Store" ".#router.ex" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/waldorf/" (21690 45842 0 0) "tmp/" "spec/" "script/" "README.md" "Rakefile" "public/" "Procfile.development" "Procfile" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "features/" "experiments/" "data/" "config.ru" "config/" "ci/" "app/" ".simplecov" ".rvmrc.example" ".ruby-version.example" ".ruby-version" ".ruby-gemset.example" ".rubocop_todo.yml" ".rubocop_autocorrect.yml" ".rubocop.yml" ".rspec.example" ".jshintrc" ".jscs.json" ".gitignore" ".git/" ".env~" ".env.example" ".env.development~" ".env" ".editorconfig" ".DS_Store" ".bundle/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/elixir/wohler_wettstein/priv/repo/migrations/" (21686 60430 0 0) "20150114222137_create_projects.exs~" "20150114222137_create_projects.exs" "20150114221750_create_pictures.exs~" "20150114221750_create_pictures.exs" "20150114220716_create_pages.exs~" "20150114220716_create_pages.exs" "20150114220655_create_uuids.exs~" "20150114220655_create_uuids.exs" "20150114215616_create_pages.exs~" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/luna-authorizator/spec/lib/luna/" (21686 23858 0 0) "authorizator/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/luna-authorizator/" (21686 32462 0 0) "spec/" "README.md" "Rakefile" "luna-authorizator.gemspec~" "luna-authorizator.gemspec" "lib/" "Gemfile~" "Gemfile.lock" "Gemfile" ".ruby-version.example~" ".ruby-version.example" ".rspec" ".git/" ".bundle/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/luna-authorizator/lib/luna/authorizator/" (21686 41300 0 0) "token_fetcher.rb~" "token_fetcher.rb" "token_authorizator.rb~" "token.rb~" "token.rb" "request_adaptor.rb~" "request_adaptor.rb" "request_adapter.rb~" "null_authorizator.rb~" "null.rb~" "null.rb" "luna_client_authorizator.rb~" "client_authorizator.rb~" "client.rb~" "client.rb" "authorizator.rb~" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/luna-authorizator/spec/lib/luna/authorizator/" (21686 41290 0 0) "token_spec.rb~" "token_spec.rb" "token_fetcher_spec.rb~" "token_fetcher_spec.rb" "request_adaptor_spec.rb~" "request_adaptor_spec.rb" "luna_token_authorizator_spec.rb~" "luna_client_authorizator_spec.rb~" "client_spec.rb~" "client_spec.rb" "client_authorizator_spec.rb~" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/elixir/wohlerwettstein/web/models/" (21686 45853 0 0) "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/luna-authorizator/spec/" (21686 25939 0 0) "spec_helper.rb~" "spec_helper.rb" "lib/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/need-to-know/config/" (21684 61487 0 0) "secrets.yml" "routes.rb" "requirejs.yml" "locales/" "initializers/" "es.test.yml.example" "es.test.yml" "es.development.yml~" "es.development.yml.example" "es.development.yml" "environments/" "environment.rb" "boot.rb" "application.rb" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/rust/byexample/" (21685 35324 0 0) "types.rs~" "types.rs" "tuples.rs~" "tuples.rs" "tuples.o" "tuples.metadata.o" "mutable_variable.rs~" "mutable_variable.rs" "mutable_variable" "literals.rs" "ifelse.rs~" "ifelse.rs" "ifelse" "formatted_print.rs~" "formatted_print.rs" "formatted_print" ".git/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/sol-client/lib/sol/client/authorizator/" (21686 20053 0 0) "token_fetcher.rb" "null_authorizator.rb" "luna_token_authorizator.rb" "luna_client_authorizator.rb" ".#luna_client_authorizator.rb" "../" "./")
+
+ ("/Users/beatrichartz/" (21685 8489 0 0) "{\"size\":100,\"query\":{\"bool\":{\"must\":{\"term\":{\"external_id\":\"2562ic\"}}}}}" "worldexpeditions_analysis" "worldexpeditions" "Website_Returns_Form.pdf" "VirtualBox VMs/" "viator_analysis" "viator" "thorntreecorpus_unescaped" "thorntreecorpus_large" "thorntreecorpus" "Public/" "place.json" "Pictures/" "pgadmin.log" "nltk_data/" "need_aliases.yml" "Music/" "Movies/" "Library/" "jruby-dist-9.0.0.0-SNAPSHOT-bin.tar.gz" "intrepid_analysis" "intrepid" "input.txt" "index.html?feedGuid=8C1EBA86-DD81-494B-9FB7-8D7732A2D370&productID=&productCode=&limit=100" "gadventures_analysis" "gadventures" "Fonts/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "checker.rb~" "checker.rb" "Books/" "Applications/" "Application Data/" "animalized" "aliaseshash.yaml" "aliases.yml" "aliases-utf8.yml" ".zshrc~" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump--5.0.5" ".viminfo" ".vagrant.d/" ".Trash/" ".subversion/" ".ssh/" ".ruby-version" ".rbx/" ".pry_history" ".pip/" ".pgpass" ".pgadmin_histoqueries" ".oh-my-zsh/" ".npm/" ".mix/" ".lesshst" ".htoprc" ".hex/" ".gitignore" ".gitconfig" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" "#viator#" "#oooha#" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/rowlf/swf/jobs/thing_to_do/" (21685 529 0 0) "sol_export.rb" "postprocess.rb" "populate_redis_subcategory_list.rb" "populate_redis_cache.rb" "index.rb" "hero_images.rb" "blacklist.rb" "../" "./")
+
+ ("/Users/beatrichartz/.oh-my-zsh/" (21676 3359 0 0) "tools/" "themes/" "templates/" "README.textile" "plugins/" "oh-my-zsh.sh" "MIT-LICENSE.txt" "log/" "lib/" "custom/" ".zedstate" ".tm_properties" ".gitignore" ".git/" ".#README.textile" ".#MIT-LICENSE.txt" "#README.textile#" "#MIT-LICENSE.txt#" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/nlp/" (21637 38593 0 0) "wikipedia_corpus_reader.go~" "wikipedia_corpus_reader.go" "weights.go" "union_set.go~" "tree.go~" "tagger.go" "tagged_sentence.go~" "tag_dict.go" "sparse_matrix.go~" "sentence.go~" "sentence.go" "pos_tagger.go~" "pos_tagger.go" "parse_tree.go~" "one_line_corpus_reader.go~" "nlp.go" "ner_tagger.go~" "ner_tagger.go" "multiline_corpus_reader.go~" "loadsaver.go" "features.go" "corpus_reader.go~" "corpus.go" "conll_corpus_reader.go~" "conll_corpus_reader.go" "clusters.go~" "clusterer.go~" "classes.go" "chunk_tagger.go~" "chunk_tagger.go" "brown_corpus_reader.go~" "brown_corpus_reader.go" "brown_cluster.go~" "averaged_perceptron.go" "#clusterer.go#" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/try/" (21683 38224 0 0) "main.go" "controllers/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/try/controllers/" (21683 38232 0 0) "index.go" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/need-to-know/" (21684 61317 0 0) "vendor/" "tmp/" "tasks/" "svg/" "spec/" "README.md" "Rakefile" "public/" "Procfile.example" "Procfile.development.example" "Procfile.development" "Procfile" "package.json" "node_modules/" "log/" "lib/" "Gruntfile.js" "Gemfile.lock" "Gemfile" "features/" "config.ru" "config/" "bower.json" "bin/" "app/" ".ruby-version.example" ".ruby-version" ".ruby-gemset.example" ".rubocop_todo.yml" ".rubocop_autocorrect.yml" ".rubocop.yml" ".rspec.example" ".jshintrc" ".jscs.json" ".gitignore" ".git/" ".env~" ".env.example" ".env" ".editorconfig" ".DS_Store" ".bundle/" ".bowerrc" "#.env#" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/fixtures/data/search/" (21652 5328 0 0) "output_9.json" "output_8.json" "output_7.json" "output_6.json" "output_5.json" "output_48.json" "output_47.json" "output_46.json" "output_45.json" "output_44.json" "output_43.json" "output_42.json" "output_41.json" "output_40.json" "output_4.json" "output_39.json" "output_38.json" "output_37.json" "output_36.json" "output_35.json" "output_34.json" "output_33.json" "output_32.json" "output_31.json" "output_30.json" "output_3.json" "output_29.json" "output_28.json" "output_27.json" "output_26.json" "output_25.json" "output_24.json" "output_23.json" "output_22.json" "output_21.json" "output_20.json" "output_2.json" "output_19.json" "output_18.json" "output_17.json" "output_16.json" "output_15.json" "output_14.json" "output_13.json" "output_12.json" "output_11.json" "output_10.json" "output_1.json" "input_9.json" "input_8.json" "input_7.json" "input_6.json" "input_5.json" "input_48.json~" "input_48.json" "input_47.json~" "input_47.json" "input_46.json~" "input_46.json" "input_45.json" "input_44.json" "input_43.json" "input_42.json" "input_41.json" "input_40.json" "input_4.json" "input_39.json" "input_38.json" "input_37.json" "input_36.json" "input_35.json" "input_34.json" "input_33.json" "input_32.json" "input_31.json" "input_30.json" "input_3.json" "input_29.json" "input_28.json" "input_27.json" "input_26.json" "input_25.json" "input_24.json" "input_23.json" "input_22.json" "input_21.json" "input_20.json" "input_2.json" "input_19.json" "input_18.json" "input_17.json" "input_16.json" "input_15.json" "input_14.json" "input_13.json" "input_12.json" "input_11.json" "input_10.json" "input_1.json" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/unit/nlp/" (21635 28142 0 0) "weights_test.go" "union_set_test.go~" "union_set_test.go" "tree_test.go~" "tree_test.go" "tag_dict_test.go" "sparse_matrix_test.go~" "sparse_matrix_test.go" "pos_tagger_test.go~" "pos_tagger_test.go" "nlp_suite_test.go" "ner_tagger_test.go~" "ner_tagger_test.go" "data/" "corpus_test.go" "conll_corpus_reader_test.go~" "conll_corpus_reader_test.go" "clusterer_test.go~" "clusterer_test.go" "chunk_tagger_test.go~" "chunk_tagger_test.go" "brown_corpus_reader_test.go~" "brown_corpus_reader_test.go" "averaged_perceptron_test.go" ".DS_Store" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/sanity/" (21623 18809 0 0) "search_sanity_test.go" "nlp_sanity_test.go~" "nlp_sanity_test.go" "drumkit_sanity_test.go" "comparison/" ".#nlp_sanity_test.go" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/rowlf/lib/rowlf/things_to_do/" (21620 23357 0 0) "zemanta_redis_cache.rb" "thing_to_do.rb" "sol_exporter.rb" "slug_updater.rb" "slug_history_updater.rb" "slug_history.rb" "repository.rb" "poi_finder.rb" "hero_image_updater.rb" "category_history.rb" "category_finder.rb" "../" "./")
+
+ ("/Users/beatrichartz/Documents/" (21608 44209 0 0) "Writings/" "Office/" "Music/" "Made_on_Purpose/" "Ideas/" "Design/" "Code/" "Adobe Flash Builder 4.6/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/" (21608 42550 0 0) "Swift/" "rust/" "ruby/" "python/" "puppet/" "java/" "go/" "es/" "emacs-lisp/" "Concepts/" "c++/" ".DS_Store" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/" (21574 4763 0 0) "warpsearch/" "view_models/" "skiandclimb/" "shoulda-callback-matchers/" "rightclearing-puppet/" "rightclearing-logic/" "rightclearing-com/" "lonelyplanet/" "gandhi/" "friendly_password/" "Cucina/" "configurations/" "casacucinaperoconverter/" "benjaminpogonatos/" "babylonia-rails/" "babylonia/" ".DS_Store" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/" (21619 3390 0 0) "zoot/" "when_to_go_csv_loader.bak" "waldorf/" "tmp/" "ssi_ab/" "sol/" "rubberband/" "rowlf-mapping/" "rowlf-external/" "rowlf/" "rizzo/" "rgeo-geojson/" "rgeo/" "requirejs-rails/" "omniture/" "need-to-know/" "natural-earth-vector/" "narrative_mappings/" "lpx-weather-api/" "gustavo/" "geojson2svg/" "fastly/" "dispatch/" "community/" "cloudformation/" "chef-repo/" "atlas/" "animal/" "ab_test/" ".DS_Store~" ".DS_Store" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/ruby/lonelyplanet/rowlf-mapping/" (21620 23673 0 0) "tmp/" "spec/" "rowlf_mapping.gemspec" "README.md" "Rakefile" "LICENSE.txt" "lib/" "Gemfile.lock" "Gemfile" "data/" "aliases" ".ruby-version.example" ".ruby-version" ".rspec" ".gitignore" ".git/" ".bundle/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/c++/brown-cluster/" (21615 34811 0 0) "wcluster.o" "wcluster.cc" "wcluster" "README" "output.txt" "Makefile" "input.txt.strdb" "input.txt.int" "input.txt" "input-c50-p1.out/" "cluster-viewer/" "basic/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/python/tan-clustering/" (21610 1752 0 0) "README.md" "pmi_cluster.py" "LICENSE.txt" "example_output.txt" "example_input.txt" "class_lm_cluster.py" ".git/" "#pmi_cluster.py#" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/search/" (21595 55870 0 0) "tier_handler.go" "successor_handler.go" "search.go" "result_set.go" "result.go" "query_parser.go" "query.go" "predecessor_handler.go" "neighbours_handler.go" "match_handler.go" "helpers.go" "handler_helpers.go" "formatter.go" "context_handler.go" "confidence_handler.go" "competition_handler.go" "combination_handler.go" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/unit/" (21595 54374 0 0) "search/" "README.md" "nlp/" "index/" "grammar/" "drumkit/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/" (21595 53829 0 0) "unit/" "sanity/" "mocks/" "fixtures/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/unit/index/" (21595 12368 0 0) "templates/" "place.json" "parser_test.go" "loadsaver_test.go" "indexes/" "index_test.go" "index_suite_test.go" "document_test.go" "data/" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/drumkit/" (21587 27774 0 0) "statsd.go" "setup.go" "search.go" "logger.go" "index.go" "http.go" "error.go" "configuration.go" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tokenizer/" (21586 41729 0 0) "tokenizer.go" "parser.go~" "parser.go" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/unit/pos/" (21586 20418 0 0) "weights_test.go~" "weights_test.go" "tagger_test.go~" "tagger_test.go" "tag_dict_test.go~" "tag_dict_test.go" "pos_suite_test.go~" "pos_suite_test.go" "perceptron_test.go~" "features_test.go~" "features_test.go" "data/" "corpus_test.go~" "corpus_test.go" "averaged_perceptron_test.go~" "averaged_perceptron_test.go" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/unit/tokenizer/" (21586 38710 0 0) "tokenizer_test.go" "tokenizer_suite_test.go" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/fixtures/data/pos/" (21584 61573 0 0) "tagging/" "input.json~" "corpora/" ".DS_Store" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/pos/" (21585 3183 0 0) "weights.go~" "weights.go" "tagger.go~" "tagger.go" "tag_dict.go~" "tag_dict.go" "pos.go~" "pos.go" "perceptron.go~" "perceptron.go" "features.go~" "features.go" "corpus.go~" "corpus.go" "classes.go" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/fixtures/data/" (21545 27783 0 0) "search/" "pos/" "index/" ".DS_Store" "../" "./")
+
+ ("/Users/beatrichartz/Documents/Code/go/src/github.com/lonelyplanet/drumkit/tests/fixtures/" (21583 38880 0 0) "search.go" "pos.go~" "pos.go" "index.go" "fixtures.go" "drumkit.go" "data/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
